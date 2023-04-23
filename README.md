@@ -12,7 +12,7 @@ To use this script, you should have the following installed on your local machin
 
 - Python
 - Spotipy library
-  -OpenAI library
+- OpenAI library
 
 ### Installing
 
